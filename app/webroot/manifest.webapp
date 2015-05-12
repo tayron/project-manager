@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "Project Manager",
+  "launch_path": "/",  
+  "description": "Sistema para gerenciamento de projetos",
+  "icons": {
+    "16": "http://projetos.tayron.com.br/img/logomarca_30px.png",
+    "32": "http://projetos.tayron.com.br/img/logomarca_30px.png",
+    "48": "http://projetos.tayron.com.br/img/logomarca_30px.png",
+    "64": "http://projetos.tayron.com.br/img/logomarca_30px.png",
+    "128": "http://projetos.tayron.com.br/img/logomarca_30px.png"
+  },
+  "developer": {
+    "name": "Tayron Miranda",
+    "url": "http://www.tayron.com.br"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "pt"
+}
