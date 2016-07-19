@@ -8,12 +8,13 @@ A sql do banco encontra-se dentro do diretório: documentacao
 **Usuário:** admin@admin.com.br
 **Senha:** admin
 
+<br />
 
 **Observação:** O projeto ainda está em desenvolvimento, portanto há vários "cruds" prontos e que não estão linkados no menu da administração.
 
-![projectmanager.png](https://bitbucket.org/repo/XREA6k/images/910586038-projectmanager.png)
+<br />
 
-### Recursos existentes ###
+# Recursos existentes
 
 * Gerenciamento de Clientes
 * Gerenciamento de Projetos
