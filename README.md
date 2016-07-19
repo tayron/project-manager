@@ -8,8 +8,6 @@ A sql do banco encontra-se dentro do diretório: documentacao
 **Usuário:** admin@admin.com.br
 **Senha:** admin
 
-Para ver uma demonstração do projeto, basta acessar a url: [http://project-manager.890m.com/](http://project-manager.890m.com/)
-
 
 **Observação:** O projeto ainda está em desenvolvimento, portanto há vários "cruds" prontos e que não estão linkados no menu da administração.
 
