@@ -5,7 +5,7 @@ Sistema para gerenciamento de projetos:
 
 A sql do banco encontra-se dentro do diretório: documentacao
 
-**Usuário:** admin@admin.com.br
+**Usuário:** admin@admin.com.br <br />
 **Senha:** admin
 
 <br />
